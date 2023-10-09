@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 部署Hexo到VPS
-image: img/testimg-cover.jpg
+image: https://cdn.jsdelivr.net/gh/10kilo/blogpic/photo/202310091532680.png
 author: [Ghost]
 date: 2023-09-30T07:03:47.149Z
 tags:
