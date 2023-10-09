@@ -6,7 +6,7 @@ author: [Ghost]
 date: 2023-09-29T07:03:47.149Z
 tags:
   - Tests
-  - Getting Started
+  - 网络
 ---
 
 ghost是基于node.js的新一代博客平台——相比日渐臃肿、无所不能的WordPress，Ghost更专注于博客，在官网上打出“只做博客平台”的口号，因此相对WordPress会更加简洁易用。<!-- more -->
